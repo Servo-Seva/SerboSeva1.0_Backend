@@ -1,0 +1,2 @@
+-- Migration: seed admin users (replace UIDs or set ADMIN_FIREBASE_UIDS env and run the seed script)
+-- This migration intentionally left empty; use seed script to mark admins from env.
