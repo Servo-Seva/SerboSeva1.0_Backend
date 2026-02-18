@@ -4,6 +4,7 @@ node_modules
 serviceAccountKey.json
 *.log
 *.env
+!.env.example
 *.pem
 *.key
 *.crt
@@ -33,7 +34,7 @@ lerna-debug.log*
 
 .env.local
 .env.*.local
-.env.example
+# .env.example is intentionally tracked
 .env
 
 node_modules
